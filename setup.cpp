@@ -1,13 +1,8 @@
 #include <iostream>
-
 using namespace std;
 
-int a;
-
-int main()
-{
-    cin >> a;
-    cout << a;
-
+int main(){
+    
+    cout<<"hello world";
     return 0;
 }
